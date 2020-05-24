@@ -1,0 +1,8 @@
+Pure functional programming has a set of rules to follow.
+1. No state : Pure functions don't depends upon global state.
+2. Pure Functions.
+3. No Side Effects
+4. Higher Order Functions :
+    A function is called Higher Order Function is below condition applies -
+    * The function takes one or more functions as parameters
+    * The function returns another function as result.
